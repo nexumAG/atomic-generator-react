@@ -1,5 +1,7 @@
 # atomic-generator-react
 
+:stop_sign: Please use the atomic-generator-react from https://github.com/bitworking/atomic-generator-react. This one is outdated.
+
 Renders react components as static html markup. One css file is generated which contains all styles.
 
 First:
